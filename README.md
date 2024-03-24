@@ -10,5 +10,3 @@
 - cd EncryptBash
 
 - bash Enc.sh
-
-- 
